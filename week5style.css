@@ -1,0 +1,41 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #fff;
+  color: #d71920; /* Man United red */
+  text-align: center;
+  padding: 20px;
+}
+
+header {
+  background-color: #d71920;
+  color: white;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+button {
+  background-color: #d71920;
+  color: white;
+  border: none;
+  margin: 10px;
+  padding: 10px 20px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+button:hover {
+  background-color: #a50d15;
+}
+
+#legends {
+  list-style: none;
+  padding: 0;
+  color: #333;
+}
+
+#countdown {
+  font-size: 18px;
+  font-weight: bold;
+  margin-top: 20px;
+  color: #000;
+}
